@@ -299,10 +299,10 @@ firebase deploy --only hosting
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add amazing feature'`
-4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
+3. Commit your changes: `git commit -m 'Add amazing feature'`
+4. Push to the branch: `git push origin feature/amazing-feature`
 ### **Code Style**
 - Follow TypeScript best practices
 - Use ESLint and Prettier
@@ -317,9 +317,8 @@ firebase deploy --only hosting
 - [Development Guide](docs/DEVELOPMENT.md)
 
 ### **Community**
-- **Discord**: [DecentraMind Community](https://discord.gg/decentramind)
-- **Twitter**: [@DecentraMindAI](https://twitter.com/DecentraMindAI)
-- **GitHub**: [Issues](https://github.com/your-org/decentramind/issues)
+- **Twitter**: [@TechDevoor](https://x.com/TechDevoor)
+- **GitHub**: [Issues](https://github.com/TechDevoor/DecentraMind/issues)
 
 ### **Technical Support**
 - Check [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
