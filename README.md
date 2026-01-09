@@ -1,4 +1,4 @@
-DecentraMind Official Token on Pump.fun CA: A8HFXZsS8Pf7XuadBccmGMDdN5RP7Vcr9FBcYAS7pump
+DecentraMind Official Token on Pump.fun CA:
 
 <<<<<<< HEAD
 # 🧠 DecentraMind - ADHD-Friendly AI-Powered Productivity & Wellness Ecosystem
